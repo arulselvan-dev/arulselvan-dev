@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arulselvan M
-- 👀 I’m interested in  open source projects
-- 🌱 I’m currently learning jsp,springboot..
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning jsp,springboot.
 - 💞️ I’m looking to collaborate on  open source projects, hackathons.
 - 📫 How to reach me Email:arulkrish669@gmail.com, Ph_no:6382568926.
 - 😄 Pronouns:  he/him.
